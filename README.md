@@ -16,7 +16,7 @@ O projeto é organizado da seguinte forma:
 * `loja_3.csv`: Dados transacionais da Loja 3.
 * `loja_4.csv`: Dados transacionais da Loja 4.
 * `seu_notebook_do_colab.ipynb`: O notebook principal contendo todo o código Python para a análise, incluindo carregamento de dados, cálculos de métricas e geração de visualizações.
-* `./graficos/` (ou na mesma pasta do notebook): Pasta onde os gráficos gerados são salvos.
+* `./graficos/`: Pasta onde os gráficos gerados são salvos.
 
 ## 📊 Análises Realizadas e Insights Obtidos
 
